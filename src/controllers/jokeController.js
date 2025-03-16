@@ -2,7 +2,11 @@ const { Joke } = require("../models");
 
 exports.addJoke = async (req, res) => {
     try {
-        const joke = await Joke.create({ content: req.body.content });
+        const joke = await Joke.create({
+            content: req.body.content,
+            answer: req.body.answer
+        });
+
         res.status(201).json(joke);
     } catch (error) {
         res.status(500).json({ error: "Erreur lors de l'ajout de la blague" });
