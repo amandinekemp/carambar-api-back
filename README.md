@@ -1,5 +1,5 @@
 <p align="center">
-    <img [carambar-api] src="https://github.com/amandinekemp/carambar-api-back/blob/main/banner.webp">
+    <img [carambar-api] src="https://github.com/amandinekemp/carambar-api-back/blob/main/banner.png">
 </p>
 
 ----------
@@ -146,5 +146,5 @@ Pour toute question ou demande de renseignements:
 Merci de l'intérêt que vous portez au projet « carambar-api » !
 
 <p align="center">
-    <img [bottom-image] src="https://github.com/amandinekemp/carambar-api-back/blob/main/bottom-image.webp">
+    <img [bottom-image] src="https://github.com/amandinekemp/carambar-api-back/blob/main/bottom-image.png">
 </p>
