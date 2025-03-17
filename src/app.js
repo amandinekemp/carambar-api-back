@@ -3,6 +3,7 @@ const cors = require("cors");
 const jokeRoutes = require("./routes/jokeRoutes");
 const { initDB } = require("./models");
 const { insertData } = require("./data");
+const setupSwagger = require("./config/swaggerConfig");
 
 const app = express();
 
@@ -17,6 +18,8 @@ app.use("/v1/blagues", jokeRoutes);
 
 initDB()
     .then(r => insertData());
+
+setupSwagger(app);
 
 module.exports = app;
 
