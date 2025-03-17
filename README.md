@@ -12,17 +12,17 @@ Bienvenue sur le projet **Carambar API**, une application permettant d'afficher 
 Cette API est construite en Node.js avec Express et Sequelize, et la base de données utilisée est SQLite.
 L'interface web est déployée sur GitHub Pages, tandis que l'API est hébergée sur Render.com.
 
-## ➤ Table of Contents
+## ➤ Table des matières
 
 
-- [➤ Technologies utilisées](TODO:lien)
-- [➤ Installation du projet en local]()
-- [➤ Endpoints de l'API]()
-- [➤ Déploiement]()
-- [➤ Documentation Swagger]()
-- [➤ Liens utiles]()
-- [➤ License]()
-- [➤ Contact]()
+- [➤ Technologies utilisées](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#--technologies-utilis%C3%A9es)
+- [➤ Installation du projet en local](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#--installation-du-projet-en-local)
+- [➤ Endpoints de l'API](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#--endpoints-de-lapi)
+- [➤ Déploiement](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#--d%C3%A9ploiement)
+- [➤ Documentation Swagger](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#-documentation-swagger-)
+- [➤ Liens utiles](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#--liens-utiles)
+- [➤ License](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#--licence)
+- [➤ Contact](https://github.com/amandinekemp/carambar-api-back/tree/main?tab=readme-ov-file#-contact)
 
 ## 🚀 ➤ Technologies utilisées
 
@@ -132,7 +132,7 @@ La documentation interactive de l'API est accessible ici :
 
 ## 📄 ➤ Licence
 
-* Ce projet est sous licence MIT. Voir le fichier [LICENSE ISC](TODO:lien) pour plus de détails.
+* Ce projet est sous licence MIT. Voir le fichier [LICENSE ISC](https://github.com/amandinekemp/carambar-api-back/blob/main/LICENSE) pour plus de détails.
 
 ## ➤ Contact
 
