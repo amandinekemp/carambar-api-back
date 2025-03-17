@@ -86,7 +86,7 @@ L'API sera disponible sur http://localhost:3000
 
 ### ➡️ Ajouter une blague (POST)
 
-URL : http://localhost:3000/blagues
+URL : http://localhost:3000/v1/blagues
 
 Body JSON :
 
@@ -97,15 +97,15 @@ Body JSON :
 
 ### ➡️ Récupérer toutes les blagues (GET)
 
-URL : http://localhost:3000/blagues
+URL : http://localhost:3000/v1/blagues
 
 ### ➡️ Récupérer une blague spécifique par ID (GET)
 
-URL : http://localhost:3000/blagues/4
+URL : http://localhost:3000/v1/blagues/4
 
 ### ➡️ Récupérer une blague aléatoire (GET)
 
-URL : http://localhost:3000/blagues/random
+URL : http://localhost:3000/v1/blagues/random
 
 ## 🛠 ➤ Déploiement
 
@@ -122,7 +122,7 @@ Le site est disponible sur GitHub Pages :
 ## ➤ Documentation Swagger :
 
 La documentation interactive de l'API est accessible ici :
-👉 TODO: Lien Swagger
+👉 [Lien Swagger](https://carambar-api-5ec1.onrender.com/api-docs/#/Jokes/get_blagues_random)
 
 ## 📜 ➤ Liens utiles
 
